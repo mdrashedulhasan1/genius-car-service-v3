@@ -1,0 +1,12 @@
+.service-header{
+    text-align: center;
+}
+.service-container img{
+    width: 100%;
+    border-radius: 10px;
+}
+.service-container{
+    text-align: center;
+    border:2px solid red;
+    border-radius: 10px;
+}
